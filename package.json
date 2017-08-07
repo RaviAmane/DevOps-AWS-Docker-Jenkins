@@ -1,0 +1,13 @@
+{
+  "name": "hello-world",
+  "private": true,
+  "version": "0.0.1",
+  "description": "App for the CI/CD pipeline using Jenkins, Docker, AWS",
+  "main": "app.js",
+  "author": "Ravi Amane <ravi_amane@hotmail.com>",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mocha": "^3.5.0",
+    "supertest": "^3.0.0"
+  }
+}
